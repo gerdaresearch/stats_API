@@ -41,7 +41,6 @@ res.json()
 
 
 # 5. 統計データ取得
-appId_estat= <Your_API_Key>
 url = "https://api.e-stat.go.jp/rest/3.0/app/json/getStatsData?"
 params = {
     "appId": api_key,
